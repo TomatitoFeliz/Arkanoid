@@ -1,0 +1,883 @@
+fileFormatVersion: 2
+guid: 2c4081d52a8640944b319ac13772d57c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 176
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2c5392b611f034facc0c853c39badf
+      internalID: 1200613505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 265
+        width: 176
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2430617cc67b7ad4e8a3f6f285dd068b
+      internalID: -512821988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 265
+        width: 176
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7145c0fd1a15b744884886d677c8934
+      internalID: 1150168006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 265
+        width: 176
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8e6e866faf9ab44a1b8d9d0b71c107
+      internalID: -1578853023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_4
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 265
+        width: 176
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43f830921ac14e448aea392c0d6824a
+      internalID: -1300714020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_5
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 265
+        width: 176
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f263aec1a472354fa8293f5b192c3ac
+      internalID: -788956120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_6
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 265
+        width: 176
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78acb4a5633e3484b9245f226de0c362
+      internalID: -572239940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_7
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 265
+        width: 176
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be277a5d89bd120408ddc92f15b75b0a
+      internalID: -149072930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_8
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 265
+        width: 176
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25aa9c5b0cfdf214f9d94511c80190f5
+      internalID: 1944238677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_9
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 265
+        width: 176
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4e0581fbf19de42b1644e28ba44326
+      internalID: -2121284975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_10
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 265
+        width: 176
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017df15feec6e9a4798d159b542dd163
+      internalID: 1503748920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_11
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 265
+        width: 176
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8b82aeb1cc21b4d89c1e0d26cdaf38
+      internalID: 707399572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_12
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 265
+        width: 176
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8978ac7eec653b049a5708c1fbd75154
+      internalID: -1410850732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 176
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d24065423ba4e04786991b6bfa0c1a8
+      internalID: 940689659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 176
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cd24de577243748bc1ded0fb451ff4
+      internalID: 927588715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 176
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a88237a1c9bbf745878d5761a65a987
+      internalID: -148694551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 176
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6537b1773216b3e40a6b60577b32b023
+      internalID: -2013391854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_17
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 48
+        width: 176
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32d1a97d5f33384681aa20b7e64d305
+      internalID: -389200457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_18
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 48
+        width: 176
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40f711312afc574397baa9cdc8c9844
+      internalID: -1147303851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_19
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 48
+        width: 176
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d97b34dc81fd7249872638f2941ee6a
+      internalID: 1148768553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_20
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 48
+        width: 176
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb04774f14ddf6b46946cb52cb8fafb8
+      internalID: -275532016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_21
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 48
+        width: 176
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9e174abba8a2c4888ea91961ed9c2f
+      internalID: -777230978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_22
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 48
+        width: 176
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9132d3bb83f6a3948889b054cd059ed2
+      internalID: 1369990849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_23
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 48
+        width: 176
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a7b402f8d2cde428100f06419bb796
+      internalID: -551430169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_24
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 48
+        width: 176
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bdb0d5da64ab142b3b0edaa748e4aa
+      internalID: 1874378861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_25
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 48
+        width: 176
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a923e217d2c68408f4c09f6c943292
+      internalID: -421053241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 8
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49e49bf2ec667046b7c7a2bbef99b57
+      internalID: 1402387060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 8
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a434e931b8d29a24bbcda23dcc907147
+      internalID: 1633769722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 8
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1b866fc3e76e24eb871730307d75cf
+      internalID: 1917861112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 8
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca07ab2d07c6e8047a54a9061d9123e8
+      internalID: -1957969426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 8
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74069ef8f755eb0479361110535e43fb
+      internalID: -2026998510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 8
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cab66350f68d69458054d281445fd07
+      internalID: -12253451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_32
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 8
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5c2590a75cb6243a59e138b9817434
+      internalID: 111806911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Arkanoid Doh It Again - Fields_33
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 256
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a08617c76841240ae55ae5bc37f694
+      internalID: -543591604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Arkanoid Doh It Again - Fields_2: 1150168006
+      SNES - Arkanoid Doh It Again - Fields_1: -512821988
+      SNES - Arkanoid Doh It Again - Fields_3: -1578853023
+      SNES - Arkanoid Doh It Again - Fields_30: -2026998510
+      SNES - Arkanoid Doh It Again - Fields_22: 1369990849
+      SNES - Arkanoid Doh It Again - Fields_9: -2121284975
+      SNES - Arkanoid Doh It Again - Fields_6: -572239940
+      SNES - Arkanoid Doh It Again - Fields_26: 1402387060
+      SNES - Arkanoid Doh It Again - Fields_7: -149072930
+      SNES - Arkanoid Doh It Again - Fields_25: -421053241
+      SNES - Arkanoid Doh It Again - Fields_32: 111806911
+      SNES - Arkanoid Doh It Again - Fields_23: -551430169
+      SNES - Arkanoid Doh It Again - Fields_4: -1300714020
+      SNES - Arkanoid Doh It Again - Fields_28: 1917861112
+      SNES - Arkanoid Doh It Again - Fields_13: 940689659
+      SNES - Arkanoid Doh It Again - Fields_24: 1874378861
+      SNES - Arkanoid Doh It Again - Fields_14: 927588715
+      SNES - Arkanoid Doh It Again - Fields_0: 1200613505
+      SNES - Arkanoid Doh It Again - Fields_11: 707399572
+      SNES - Arkanoid Doh It Again - Fields_8: 1944238677
+      SNES - Arkanoid Doh It Again - Fields_17: -389200457
+      SNES - Arkanoid Doh It Again - Fields_33: -543591604
+      SNES - Arkanoid Doh It Again - Fields_15: -148694551
+      SNES - Arkanoid Doh It Again - Fields_27: 1633769722
+      SNES - Arkanoid Doh It Again - Fields_12: -1410850732
+      SNES - Arkanoid Doh It Again - Fields_31: -12253451
+      SNES - Arkanoid Doh It Again - Fields_5: -788956120
+      SNES - Arkanoid Doh It Again - Fields_19: 1148768553
+      SNES - Arkanoid Doh It Again - Fields_16: -2013391854
+      SNES - Arkanoid Doh It Again - Fields_20: -275532016
+      SNES - Arkanoid Doh It Again - Fields_18: -1147303851
+      SNES - Arkanoid Doh It Again - Fields_21: -777230978
+      SNES - Arkanoid Doh It Again - Fields_10: 1503748920
+      SNES - Arkanoid Doh It Again - Fields_29: -1957969426
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
