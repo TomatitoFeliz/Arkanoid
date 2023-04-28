@@ -55,14 +55,4 @@ public class GameManagerGameplay : MonoBehaviour
     {
         SceneManager.LoadScene("MainMenu");
     }
-
-    //Guardado de Datos
-    void GuardarDatos()
-    {
-        if (PlayerPrefs.GetFloat("record", 0.0f) < puntuación)
-        {
-            PlayerPrefs.SetFloat("record", puntuación);
-        }
-        PlayerPrefs.Save();
-    }
 }

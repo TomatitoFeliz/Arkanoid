@@ -45,6 +45,7 @@ public class PowerUps : MonoBehaviour
         IEnumerator Slow(Collider2D player)
         {
             BallBehaviour.instance.speed = 3;
+            //GetComponent<Rigidbody2D>().velocity = dir * 3;
 
             GetComponent<SpriteRenderer>().enabled = false;
             GetComponent<Collider2D>().enabled = false;
