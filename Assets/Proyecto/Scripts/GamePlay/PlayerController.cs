@@ -5,17 +5,11 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     public float fVelocidad = 10;
-    Rigidbody2D pRigidbody2D;
-    void Start()
-    {
-        pRigidbody2D = GetComponent<Rigidbody2D>();
-    }
+    public int puntos;
 
-    void Update()
+    private void FixedUpdate()
     {
-        float horizontal = Input.GetAxis("Horizontal");
-        Vector2 position = pRigidbody2D.position;
-        position.x = position.x + 1.0f * horizontal * fVelocidad * Time.deltaTime;
-        pRigidbody2D.MovePosition(position);
+        float horizontal = Input.GetAxisRaw("Horizontal");
+        GetComponent<Rigidbody2D>().velocity = Vector2.right * horizontal * fVelocidad;
     }
 }

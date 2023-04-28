@@ -5,8 +5,14 @@ TagManager:
   serializedVersion: 2
   tags:
   - Muerte
-  - Campox
-  - Campoy
+  - Fin
+  - Bordes
+  - Bloque
+  - Pelota
+  - puntos
+  - salud
+  - lentitud
+  - destruction
   layers:
   - Default
   - TransparentFX
