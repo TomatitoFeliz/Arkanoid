@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5109133580367673350}
   - component: {fileID: -2732470242794996046}
   - component: {fileID: -5649840865134650667}
+  - component: {fileID: -6675348174700310246}
   m_Layer: 0
   m_Name: B-Platedo
   m_TagString: Bloque
@@ -100,6 +101,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   vida: 2
+  salud: {fileID: 8012296958657792559, guid: ccfb3fa880a19d845a816fafb16c091b, type: 3}
+  puntos: {fileID: 4286495015824085717, guid: e797234ef75d8ef44a0feb97ed25d511, type: 3}
+  lento: {fileID: 4816283987868122206, guid: c3742945743571245845516cf490e7bf, type: 3}
+  fuerte: {fileID: 457408578469137290, guid: fc40d202c6a9ce74b8b3b319a70b072e, type: 3}
   destuccion: {fileID: 8300000, guid: 3b2d91870a4ff604c8de66363e0b0e4a, type: 3}
   audiosource: {fileID: -5649840865134650667}
 --- !u!61 &-2732470242794996046
@@ -224,3 +229,23 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!95 &-6675348174700310246
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 998234769352252744}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5065cc47e21d73442b17a3439200749c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

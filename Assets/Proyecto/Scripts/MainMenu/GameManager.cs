@@ -20,6 +20,10 @@ public class GameManager : MonoBehaviour
     {
         SceneManager.LoadScene("NVL-1");
     }
+    public void PlayInfinito()
+    {
+        SceneManager.LoadScene("NVL-Infinito");
+    }
     public void Exit()
     {
         Application.Quit();

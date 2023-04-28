@@ -126,6 +126,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   vida: 1
+  salud: {fileID: 8012296958657792559, guid: ccfb3fa880a19d845a816fafb16c091b, type: 3}
+  puntos: {fileID: 4286495015824085717, guid: e797234ef75d8ef44a0feb97ed25d511, type: 3}
+  lento: {fileID: 4816283987868122206, guid: c3742945743571245845516cf490e7bf, type: 3}
+  fuerte: {fileID: 457408578469137290, guid: fc40d202c6a9ce74b8b3b319a70b072e, type: 3}
   destuccion: {fileID: 8300000, guid: 3b2d91870a4ff604c8de66363e0b0e4a, type: 3}
   audiosource: {fileID: 1558299351349765940}
 --- !u!82 &1558299351349765940
